@@ -7,7 +7,7 @@ Add [the model](https://www.roblox.com/library/9879985650/MultiModules) to your 
 
 **Get the MM function.**
 ```lua
-local MM = require(game.ReplicatedStorage:WaitForChild("MM"))
+local MM = require(game.ReplicatedStorage:WaitForChild("MainModule"))
 ```
 **Get the MM function without installation.**
 ```lua
