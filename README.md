@@ -19,6 +19,7 @@ local MM = require(9879985650)
 local Tree = MM("Tree")
 ```
 **Example Usage.**
+
 (Using [tree](https://github.com/SetAsync/Tree) which is a supported MM module.)
 ```lua
 local MM = require(game.ReplicatedStorage:WaitForChild("MM"))
