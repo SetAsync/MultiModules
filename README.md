@@ -2,6 +2,7 @@
 MultiModules allows you to quickly access modules within scripts without loading them in each time, or adding each of them to your game.
 
 **Installation**
+
 Add [the model](https://www.roblox.com/library/9879985650/MultiModules) to your game, ideally inside ReplicatedStorage. It will move itself there from any parent which allows scripts to run.
 
 **Get the MM function.**
